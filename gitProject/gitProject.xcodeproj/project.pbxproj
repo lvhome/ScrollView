@@ -15,6 +15,7 @@
 		FF67AA2E2177291C00052242 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FF67AA2D2177291C00052242 /* main.m */; };
 		FF67AA382177291C00052242 /* gitProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF67AA372177291C00052242 /* gitProjectTests.m */; };
 		FF67AA432177291C00052242 /* gitProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF67AA422177291C00052242 /* gitProjectUITests.m */; };
+		FF67AA52217877B600052242 /* ssss.c in Sources */ = {isa = PBXBuildFile; fileRef = FF67AA50217877B600052242 /* ssss.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		FF67AA3E2177291C00052242 /* gitProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gitProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF67AA422177291C00052242 /* gitProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitProjectUITests.m; sourceTree = "<group>"; };
 		FF67AA442177291C00052242 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF67AA50217877B600052242 /* ssss.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ssss.c; sourceTree = "<group>"; };
+		FF67AA51217877B600052242 /* ssss.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ssss.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				FF67AA1F2177291B00052242 /* AppDelegate.m */,
 				FF67AA212177291B00052242 /* ViewController.h */,
 				FF67AA222177291B00052242 /* ViewController.m */,
+				FF67AA50217877B600052242 /* ssss.c */,
+				FF67AA51217877B600052242 /* ssss.h */,
 				FF67AA242177291B00052242 /* Main.storyboard */,
 				FF67AA272177291C00052242 /* Assets.xcassets */,
 				FF67AA292177291C00052242 /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				FF67AA232177291B00052242 /* ViewController.m in Sources */,
 				FF67AA2E2177291C00052242 /* main.m in Sources */,
 				FF67AA202177291B00052242 /* AppDelegate.m in Sources */,
+				FF67AA52217877B600052242 /* ssss.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
